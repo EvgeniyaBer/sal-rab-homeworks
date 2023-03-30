@@ -15,6 +15,8 @@ function addInCartMessage(title, price) {
     message + 'теперь в корзине!';
 
     console.log (message);
+    console.log (productName);
+    console.log (productPrice);
 
     // Конец решения задания №1.1.
 
